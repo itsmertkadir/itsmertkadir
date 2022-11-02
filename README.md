@@ -1,5 +1,5 @@
 <h1>GitHub profilime hoş geldin! 👀 <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="30px"></h1>
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/440239378158059532?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/440239378158059532)
+
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=itsmertkadir&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true">
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmertkadir&theme=tokyonight&hide_border=true&layout=compact">
