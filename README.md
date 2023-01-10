@@ -3,9 +3,9 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=itsmertkadir&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true">
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmertkadir&theme=tokyonight&hide_border=true&layout=compact">
+
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/440239378158059532)](https://discord.com/users/440239378158059532)
-
-
 
 Selamlar 👋, ben **Türkiye'de** genç bir mobil geliştiricisiyim. Şu anda hem çalışıyorum hem de mobil geliştirme ile uğraşıyorum. Neredeyse vaktimin çoğu kod yazmak ve yeni teknolojileri öğrenmek & geliştirmekle geçiyor. Bence kodlama yapmak çok zevkli.
 
