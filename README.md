@@ -1,11 +1,12 @@
 <h1>GitHub profilime hoş geldin! 👀 <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="30px"></h1>
 
 
+<div align="center">
 
-≤div align="center"≥
-[![Discord Presence](https://lanyard.cnrad.dev/api/440239378158059532)](https://discord.com/users/440239378158059532)
+[![Discord Presence](https://lanyard.cnrad.dev/api/440239378158059532)](https://discord.com/users/440239378158059532) 
 
-/div>
+</div>
+
 
 
 Selamlar 👋, ben **Türkiye'de** genç bir mobil geliştiricisiyim. Şu anda hem çalışıyorum hem de mobil geliştirme ile uğraşıyorum. Neredeyse vaktimin çoğu kod yazmak ve yeni teknolojileri öğrenmek & geliştirmekle geçiyor. Bence kodlama yapmak çok zevkli.
