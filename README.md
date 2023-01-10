@@ -12,6 +12,7 @@ Selamlar 👋, ben **Türkiye'de** genç bir mobil geliştiricisiyim. Şu anda h
 2014 Yılından itibaren bir hobi olarak başlayan programlama hevesim çok ilerledi. Artık kendimi sürekli geliştirmeye ve boş zamanlarımda yeni şeyler öğrenmeye çalışıyorum. Son bir kaç aydır SwiftUI ve Kotlin'de kendimi geliştirmeye çalışıyorum, bazı diller gerçekten ilgi çekici. Geliştirme yaptıkça & bir şeyler öğrendikçe hevesim artıyor.
 
 ---
+[![Discord Presence](https://lanyard.cnrad.dev/api/440239378158059532)](https://discord.com/users/440239378158059532)
 
 - 🔭 I’m currently working on **Everything**
 
