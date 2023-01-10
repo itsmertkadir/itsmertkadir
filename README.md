@@ -1,4 +1,4 @@
-<h1>GitHub profilime hoş geldin! 👀 <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="30px" align="center"></h1>
+<h1 align="center">GitHub profilime hoş geldin! 👀 <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="30px"></h1>
 
 
 <div align="center">
