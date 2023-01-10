@@ -31,7 +31,7 @@ Selamlar 👋, ben **Türkiye'de** genç bir mobil geliştiricisiyim. Şu anda h
 
 <details align="center">
   <summary style="font-weight: bold; font-size: 18px">GitHub Statistics</summary>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=flundar&theme=monokai&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmertkadir&theme=monokai&hide_border=true">
 </details>
 
 
