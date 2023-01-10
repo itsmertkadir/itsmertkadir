@@ -1,5 +1,6 @@
 <h1>GitHub profilime hoş geldin! 👀 <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="30px"></h1>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/440239378158059532)](https://discord.com/users/440239378158059532)
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=itsmertkadir&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true">
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmertkadir&theme=tokyonight&hide_border=true&layout=compact">
@@ -12,7 +13,7 @@ Selamlar 👋, ben **Türkiye'de** genç bir mobil geliştiricisiyim. Şu anda h
 2014 Yılından itibaren bir hobi olarak başlayan programlama hevesim çok ilerledi. Artık kendimi sürekli geliştirmeye ve boş zamanlarımda yeni şeyler öğrenmeye çalışıyorum. Son bir kaç aydır SwiftUI ve Kotlin'de kendimi geliştirmeye çalışıyorum, bazı diller gerçekten ilgi çekici. Geliştirme yaptıkça & bir şeyler öğrendikçe hevesim artıyor.
 
 ---
-[![Discord Presence](https://lanyard.cnrad.dev/api/440239378158059532)](https://discord.com/users/440239378158059532)
+
 
 - 🔭 I’m currently working on **Everything**
 
